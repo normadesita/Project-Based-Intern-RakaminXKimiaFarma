@@ -11,8 +11,9 @@
     ![image](https://github.com/normadesita/Project-Based-Intern-RakaminXKimiaFarma/assets/57670788/c2ffc582-de4e-47bf-9042-74811983001c)
 ## Step 2 : Create Analaysis Table
     Based on Requeirements , I create analysis tables from the aggregation prosess 
-
+  ![Screenshot 2024-03-26 122728](https://github.com/normadesita/Project-Based-Intern-RakaminXKimiaFarma/assets/57670788/ade395be-b100-4e6d-9427-dbbed37e3e7f)
     
 ## Step 3 : Create Dashboard
+![Dashboard](https://github.com/normadesita/Project-Based-Intern-RakaminXKimiaFarma/assets/57670788/0b7ae22f-2821-47d1-acb1-eaccffe06a01)
 
 
