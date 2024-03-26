@@ -14,6 +14,7 @@
   ![Screenshot 2024-03-26 122728](https://github.com/normadesita/Project-Based-Intern-RakaminXKimiaFarma/assets/57670788/ade395be-b100-4e6d-9427-dbbed37e3e7f)
     
 ## Step 3 : Create Dashboard
+klick link : https://lookerstudio.google.com/reporting/b5ea0ab9-a542-4a1c-b0a1-fde67fd35c68
 ![Dashboard](https://github.com/normadesita/Project-Based-Intern-RakaminXKimiaFarma/assets/57670788/0b7ae22f-2821-47d1-acb1-eaccffe06a01)
 
 
